@@ -4,15 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86ec0b58-6ed6-46aa-bf19-2e5a2c75d5ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FileHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Progressions/Pull/backLever.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Progressions/Pull/frontLever.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Progressions/Pull/frontLeverRows.csv" afterDir="false" />
+    <list default="true" id="86ec0b58-6ed6-46aa-bf19-2e5a2c75d5ec" name="Changes" comment="Stuff with CSV_to_LHM">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apidocs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_lang3_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/java.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-lang3-3.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Workout.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calisthenics_prototype.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Calisthenics_prototype.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileHandler.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OneRmCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OneRmCalc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Progression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Progression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Progressions/Pull/frontLever.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/Progressions/Pull/frontLever.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Progressions/Pull/frontLeverRows.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/Progressions/Pull/frontLeverRows.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,16 +47,26 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/craig/IdeaProjectsz/Calisthenics_prototype&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/craig/Downloads/commons-lang3-3.12.0-bin/commons-lang3-3.12.0/commons-lang3-3.12.0.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\craig\IdeaProjectsz\Calisthenics_prototype\lib" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -73,6 +90,32 @@
       <option name="presentableId" value="Default" />
       <updated>1685098102593</updated>
     </task>
+    <task id="LOCAL-00001" summary="Stuff with CSV_to_LHM">
+      <created>1685964079477</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685964079477</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Stuff with CSV_to_LHM" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stuff with CSV_to_LHM" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
